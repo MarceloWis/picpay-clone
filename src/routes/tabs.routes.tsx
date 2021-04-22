@@ -7,6 +7,7 @@ import PayPage from '../pages/Pay'
 import PayButton from '../components/PayButton';
 
 
+
 const Tab = createBottomTabNavigator()
 
 const icons: any = {
